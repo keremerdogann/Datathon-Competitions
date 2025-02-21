@@ -1,0 +1,5 @@
+[TR]
+Yarışmacı olan bizlere verilen veri setinde etiketsiz bir şekilde İstanbul , Ankara , İzmir şehirlerinden oluşan binlerce sokak görseli vardı. Bunların etiketleri ayrı bir csv dosyasında saklanıyordu. Geliştirmemiz istenen model, bu görsellerin hangisinin hangi şehrin sokak görseline ait olduğunu doğru bir şekilde tahmin etmeli. İlgili repo içerisindeki modeller arasından en başarılı olan modelimin makro F1 skoru 79 olarak hesaplandı. İlgili metrikler ve parametreler güncellenerek bu skor daha da yüksek sayılara erişebilir.
+
+[EN]
+As competitors, we were given a dataset containing thousands of street images from Istanbul, Ankara, and Izmir without labels. The labels were stored separately in a CSV file. The model we were required to develop had to accurately predict which city each street image belonged to. Among the models in the relevant repository, my most successful model achieved a macro F1 score of 79. By updating the relevant metrics and parameters, this score can be improved even further.
